@@ -656,9 +656,9 @@ footer{
     padding:10px;
 }
 .footers{
-    text-decoration:none ;
+    text-decoration:underline ;
     font-size:18px;
-    font-weight:bold;
+    font-style: italic;
 color:#FF7892;
 
 background-color: transparent;;
